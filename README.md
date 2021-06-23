@@ -1,4 +1,4 @@
-# Fundamentos de React - Parte 1.
+# Fundamentos de React - Parte 2.
 
 Continuidadede nas aulas de react.
 
