@@ -1,5 +1,5 @@
 # aula-01-fundamentos-react
 
-continuidadede nas aulas de react
+Continuidadede nas aulas de react.
 
-autora:Fernanda Sacoli
+Autor: Gustavo Feijó Rocha.
